@@ -3,6 +3,7 @@
 
 ### 🚀 About Me
 I am a Data Scientist with 4+ years of experience in Object-Oriented Programming (Python), DevOps, business intelligence, and expertise in leveraging machine learning and deep learning to solve real-life problems. 
+
 As a Senior Data Scientist , I am driving the development and maintenance of high-impact ML systems across continents, pioneering Generative AI adoption in diverse domains. I leverage AWS and Azure services to build and optimize batch and real-time data pipelines, enabling seamless data integration and analysis for various internal clients. I also contribute to design discussions and documentation using Confluence and JIRA, ensuring clear communication and collaboration within and across teams.
 
 I am currently pursuing a Masters of Artificial Intelligence from the University of Johannesburg, where I am learning the latest techniques and applications of AI in various fields. I am passionate about continuous learning, especially in AI, and using data-driven insights to elevate business operations and customer satisfaction.
