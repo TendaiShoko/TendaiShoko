@@ -12,6 +12,7 @@ I am currently pursuing a Masters of Artificial Intelligence from the University
 **👯 I’m looking to collaborate on**
 - Artificial Intelligence Solutions
 - Machine Learning Projects
+- Robotic Process Automation Projects
 
 **Ask me about**
 - Collaborative filtering models
