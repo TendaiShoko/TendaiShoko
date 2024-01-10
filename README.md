@@ -1,8 +1,8 @@
 <h1 align="center">Hi there, I'm Tendai 👋</h1>
-<h3 align="center">Data Scientist | Data Engineer | Cloud Engineer | </h3>
+<h3 align="center">Data Scientist | Data Engineer | RPA Engineer | </h3>
 
 ### 🚀 About Me
-I am a Data Scientist with 3+ years of experience in object-oriented programming (Python), DevOps, business intelligence, and expertise in leveraging machine learning and deep learning to solve real-life problems.  
+I am a Data Scientist with 4+ years of experience in object-oriented programming (Python), DevOps, business intelligence, and expertise in leveraging machine learning and deep learning to solve real-life problems.  
 
 
 **👯 I’m looking to collaborate on**
