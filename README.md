@@ -1,15 +1,19 @@
 ### 🚀 About Me
 
-I'm a Data Scientist with over 5 years of experience specializing in Python, MLSecOps, and Artificial Intelligence. My expertise lies in leveraging machine learning and generative AI to solve real-world problems and drive impactful change across industries.
+I'm a **Data Scientist** with over **5 years of experience** specializing in **Python, MLSecOps, and Artificial Intelligence**. My expertise in leveraging **machine learning** and **generative AI** to solve real-world problems and drive impactful change across industries.
 
-Currently, as a Senior Data Scientist, I'm leading the development and maintenance of high-impact ML and generative AI systems across different sectors. My work focuses on adopting AI technologies to streamline business processes and improve decision-making. Using AWS, Azure, and Google Cloud services, I design and optimize batch and real-time data pipelines, ensuring seamless integration and analysis for internal clients. I'm also a key player in design discussions and documentation, using tools like Confluence and JIRA to foster clear communication within and across teams.
+Currently, as a **Senior Data Scientist**, I'm leading the development and maintenance of **high-impact ML and generative AI systems** across different sectors. My work focuses on adopting AI technologies to streamline business processes and improve decision-making. Using **AWS, Azure, and Google Cloud** services, I design and optimize **batch and real-time data pipelines**, ensuring seamless integration and analysis for internal clients. I'm also a key player in design discussions and documentation, using tools like **Confluence and JIRA** to foster clear communication within and across teams.
+
+---
 
 **💼 Professional Highlights**
 
-- Leading development and maintenance of ML and generative AI systems across industries
-- Designing and optimizing batch and real-time data pipelines using AWS, Azure, and Google Cloud services
-- Driving AI adoption to streamline business processes and enhance decision-making
-- Key contributor to design discussions and documentation using Confluence and JIRA
+- **Leadership**: Leading development and maintenance of ML and generative AI systems across industries
+- **Data Pipelines**: Designing and optimizing batch and real-time data pipelines using AWS, Azure, and Google Cloud services
+- **AI Adoption**: Driving AI adoption to streamline business processes and enhance decision-making
+- **Team Collaboration**: Key contributor to design discussions and documentation using Confluence and JIRA
+
+---
 
 **🛠 Core Competencies**
 
@@ -20,20 +24,27 @@ Currently, as a Senior Data Scientist, I'm leading the development and maintenan
 - **MLSecOps**: End-to-end ML pipeline development, deployment, and security
 - **DevOps & CI/CD**: Docker, Kubernetes, GitHub Actions
 
+---
+
 **🌟 Key Projects**
 
 - **Cross-Industry AI Implementation**: Developed and maintained high-impact ML and generative AI systems to address unique business challenges across sectors, resulting in improved efficiencies and performance.
 - **Data Pipeline Optimization**: Designed and implemented efficient batch and real-time data pipelines using cloud services, ensuring data reliability and accessibility for analytics and decision-making.
 - **Business Process Transformation**: Leveraged AI to transform business processes, resulting in enhanced decision-making and operational efficiencies for clients across industries.
 
+---
+
 **📚 Continuous Learning**
 
-- Published paper: [Analyzing the Perception of Immigrants in South Africa: A Machine Learning Approach to Aggregate Twitter Sentiment Data](https://ieeexplore.ieee.org/document/10569247)
-- Pursuing Master's in Artificial Intelligence (University of Johannesburg)
-- Microsoft Certified: Azure Data Scientist Associate [Credentials](https://learn.microsoft.com/api/credentials/share/en-us/TendaiShoko/7A15BDEE81275AEE?sharingId=35C05CB4FE11105D)
-- Microsoft Certified: Azure AI Engineer Associate [Credentials](https://learn.microsoft.com/api/credentials/share/en-us/TendaiShoko/B5F0B5C72509F60B?sharingId=35C05CB4FE11105D)
-- Focused on cutting-edge AI techniques and applications
-- Passionate about transforming data-driven insights into actionable solutions
+- **Published Paper**: [Analyzing the Perception of Immigrants in South Africa: A Machine Learning Approach to Aggregate Twitter Sentiment Data](https://ieeexplore.ieee.org/document/10569247)
+- **Master's in Artificial Intelligence**: Pursuing at University of Johannesburg
+- **Certifications**:
+  - Microsoft Certified: Azure Data Scientist Associate [Credentials](https://learn.microsoft.com/api/credentials/share/en-us/TendaiShoko/7A15BDEE81275AEE?sharingId=35C05CB4FE11105D)
+  - Microsoft Certified: Azure AI Engineer Associate [Credentials](https://learn.microsoft.com/api/credentials/share/en-us/TendaiShoko/B5F0B5C72509F60B?sharingId=35C05CB4FE11105D)
+- **Focus**: Cutting-edge AI techniques and applications
+- **Passion**: Transforming data-driven insights into actionable solutions
+
+---
 
 **👥 Collaboration Interests**
 
@@ -42,10 +53,12 @@ Currently, as a Senior Data Scientist, I'm leading the development and maintenan
 - MLSecOps Initiatives
 - Cross-Industry AI Implementation
 
+---
+
 ### Tools I Work With
 
 **AI/ML/Data Science**:  
-![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python&logoWidth=40) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange?style=flat&logo=tensorflow&logoWidth=40) ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-green?style=flat&logo=scikit-learn&logoWidth=40) ![SQL](https://img.shields.io/badge/-SQL-blue?style=flat&logo=postgresql&logoWidth=40) ![NumPy](https://img.shields.io/badge/-NumPy-blue?style=flat&logo=numpy&logoWidth=40) ![Pandas](https://img.shields.io/badge/-Pandas-blueviolet?style=flat&logo=pandas&logoWidth=40) ![NLP](https://img.shields.io/badge/-NLP-yellow?style=flat&logo=natural-language-processing&logoWidth=40) ![Plotly Express](https://img.shields.io/badge/-Plotly%20Express-blue?style=flat&logo=plotly&logoWidth=40) ![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-orange?style=flat&logo=beautifulsoup&logoWidth=40) ![Streamlit](https://img.shields.io/badge/-Streamlit-blue?style=flat&logo=streamlit&logoWidth=40) ![PyTorch](https://img.shields.io/badge/-PyTorch-red?style=flat&logo=pytorch&logoWidth=40)
+![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python&logoWidth=40) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange?style=flat&logo=tensorflow&logoWidth=40) ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-green?style=flat&logo=scikit-learn&logoWidth=40) ![SQL](https://img.shields.io/badge/-SQL-blue?style=flat&logo=postgresql&logoWidth=40) ![NumPy](https://img.shields.io/badge/-NumPy-blue?style=flat&logo=numpy&logoWidth=40) ![Pandas](https://img.shields.io/badge/-Pandas-blueviolet?style=flat&logo=pandas&logoWidth=40) ![NLP](https://img.shields.io/badge/-NLP-yellow?style=flat&logo=natural-language-processing&logoWidth=40) ![Plotly Express](https://img.shields.io/badge/-Plotly%20Express-blue?style=flat&logo=plotly&logoWidth=40) ![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-orange?style=flat&logo=beautifulsoup&logoWidth=40) ![Streamlit](https://img.shields.io/badge/-Streamlit-blue?style=flat&logo=streamlit&logoWidth=40) ![PyTorch](https://img.shields.io/badge/-PyTorch-red?style=flat&logo=pytorch&logoWidth=40) ![OpenAI](https://img.shields.io/badge/-OpenAI-black?style=flat&logo=openai&logoWidth=40) ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-yellow?style=flat&logo=huggingface&logoWidth=40)
 
 **CI/CD**:  
 ![Docker](https://img.shields.io/badge/-Docker-blue?style=flat&logo=docker&logoWidth=40) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-blue?style=flat&logo=kubernetes&logoWidth=40) ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-black?style=flat&logo=github-actions&logoWidth=40) ![Jenkins](https://img.shields.io/badge/-Jenkins-black?style=flat&logo=jenkins&logoWidth=40) ![Serverless](https://img.shields.io/badge/-Serverless-black?style=flat&logo=serverless&logoWidth=40)
@@ -59,8 +72,7 @@ Currently, as a Senior Data Scientist, I'm leading the development and maintenan
 **Applications**:  
 ![Dataiku](https://img.shields.io/badge/-Dataiku-ff69b4?style=flat&logo=dataiku&logoWidth=40) ![Google Colab](https://img.shields.io/badge/-Google%20Colab-ff69b4?style=flat&logo=google-colab&logoWidth=40) ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-ff69b4?style=flat&logo=jupyter&logoWidth=40) ![VS Code](https://img.shields.io/badge/-VS%20Code-ff69b4?style=flat&logo=visual-studio-code&logoWidth=40)
 
-**Web Development**:  
-![Django](https://img.shields.io/badge/-Django-yellowgreen?style=flat&logo=django&logoWidth=40) ![FastAPI](https://img.shields.io/badge/-FastAPI-yellowgreen?style=flat&logo=fastapi&logoWidth=40) ![WordPress](https://img.shields.io/badge/-WordPress-yellowgreen?style=flat&logo=wordpress&logoWidth=40)
+---
 
 ## Connect With Me
 
