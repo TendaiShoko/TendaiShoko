@@ -2,7 +2,7 @@
 
 I'm a Data Scientist with over 5 years of experience specializing in Python, MLSecOps, and Artificial Intelligence. My expertise lies in leveraging machine learning and generative AI to solve real-world problems and drive impactful change across industries.
 
-As a Senior Data Scientist, I'm leading the development and maintenance of high-impact ML and generative AI systems across different sectors. My work focuses on adopting AI technologies to streamline business processes and improve decision-making. Using AWS, Azure, and Google Cloud services, I design and optimize batch and real-time data pipelines, ensuring seamless integration and analysis for internal clients. I'm also a key player in design discussions and documentation, using tools like Confluence and JIRA to foster clear communication within and across teams.
+Currently, as a Senior Data Scientist, I'm leading the development and maintenance of high-impact ML and generative AI systems across different sectors. My work focuses on adopting AI technologies to streamline business processes and improve decision-making. Using AWS, Azure, and Google Cloud services, I design and optimize batch and real-time data pipelines, ensuring seamless integration and analysis for internal clients. I'm also a key player in design discussions and documentation, using tools like Confluence and JIRA to foster clear communication within and across teams.
 
 **💼 Professional Highlights**
 
@@ -13,22 +13,25 @@ As a Senior Data Scientist, I'm leading the development and maintenance of high-
 
 **🛠 Core Competencies**
 
-- **Languages & Frameworks**: Python, TensorFlow, Scikit-Learn, Django, FastAPI
+- **Languages & Frameworks**: Python, TensorFlow, Scikit-Learn, PyTorch, Pandas, NumPy
 - **Cloud Platforms**: AWS, Azure, Google Cloud
-- **Data Processing**: SQL, NumPy, Pandas, NLP
-- **AI & ML**: Machine Learning, Deep Learning, Generative AI
+- **Data Processing**: SQL, NLP, Data Preprocessing, Data Visualization
+- **AI & ML**: Machine Learning, Deep Learning, Generative AI, Model Evaluation & Tuning
 - **MLSecOps**: End-to-end ML pipeline development, deployment, and security
 - **DevOps & CI/CD**: Docker, Kubernetes, GitHub Actions
 
 **🌟 Key Projects**
 
-- **Cross-Industry AI Implementation**: Developed and maintained high-impact ML and generative AI systems
-- **Data Pipeline Optimization**: Designed efficient batch and real-time data pipelines across multiple cloud platforms
-- **Business Process Transformation**: Leveraged AI to streamline operations and improve decision-making
+- **Cross-Industry AI Implementation**: Developed and maintained high-impact ML and generative AI systems to address unique business challenges across sectors, resulting in improved efficiencies and performance.
+- **Data Pipeline Optimization**: Designed and implemented efficient batch and real-time data pipelines using cloud services, ensuring data reliability and accessibility for analytics and decision-making.
+- **Business Process Transformation**: Leveraged AI to transform business processes, resulting in enhanced decision-making and operational efficiencies for clients across industries.
 
 **📚 Continuous Learning**
 
-- Completing Master's in Artificial Intelligence (University of Johannesburg)
+- Published paper: [Analyzing the Perception of Immigrants in South Africa: A Machine Learning Approach to Aggregate Twitter Sentiment Data](https://ieeexplore.ieee.org/document/10569247)
+- Pursuing Master's in Artificial Intelligence (University of Johannesburg)
+- Microsoft Certified: Azure Data Scientist Associate [Credentials](https://learn.microsoft.com/api/credentials/share/en-us/TendaiShoko/7A15BDEE81275AEE?sharingId=35C05CB4FE11105D)
+- Microsoft Certified: Azure AI Engineer Associate [Credentials](https://learn.microsoft.com/api/credentials/share/en-us/TendaiShoko/B5F0B5C72509F60B?sharingId=35C05CB4FE11105D)
 - Focused on cutting-edge AI techniques and applications
 - Passionate about transforming data-driven insights into actionable solutions
 
@@ -49,9 +52,6 @@ As a Senior Data Scientist, I'm leading the development and maintenance of high-
 
 **Cloud Platforms**:  
 ![Amazon EC2](https://img.shields.io/badge/-EC2-orange?style=flat&logo=amazon-ec2&logoWidth=40) ![Amazon ECS](https://img.shields.io/badge/-ECS-orange?style=flat&logo=amazon-ecs&logoWidth=40) ![Amazon ECR](https://img.shields.io/badge/-ECR-orange?style=flat&logo=amazon-ecr&logoWidth=40) ![Amazon S3](https://img.shields.io/badge/-S3-orange?style=flat&logo=amazon-s3&logoWidth=40) ![Amazon SageMaker](https://img.shields.io/badge/-SageMaker-orange?style=flat&logo=amazon-aws&logoWidth=40) ![Amazon QuickSight](https://img.shields.io/badge/-QuickSight-yellow?style=flat&logo=amazon-aws&logoWidth=40) ![AWS Step Functions](https://img.shields.io/badge/-AWS%20Step%20Functions-orange?style=flat&logo=amazonaws&logoWidth=40) ![AWS Lambda](https://img.shields.io/badge/-AWS%20Lambda-orange?style=flat&logo=amazonaws&logoWidth=40) ![Azure](https://img.shields.io/badge/-Azure-blue?style=flat&logo=microsoft-azure&logoWidth=40) ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-blue?style=flat&logo=google-cloud&logoWidth=40)
-
-**Reporting**:  
-![Power BI](https://img.shields.io/badge/-Power%20BI-9cf?style=flat&logo=microsoft-power-bi&logoWidth=40) ![Amazon QuickSight](https://img.shields.io/badge/-QuickSight-9cf?style=flat&logo=amazon-aws&logoWidth=40) ![Plotly Express](https://img.shields.io/badge/-Plotly%20Express-9cf?style=flat&logo=plotly&logoWidth=40)
 
 **Proficiency**:  
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blueviolet?style=flat&logo=postgresql&logoWidth=40) ![MLOps](https://img.shields.io/badge/-MLOps-blueviolet?style=flat&logo=microsoft&logoWidth=40) ![Slack Bot](https://img.shields.io/badge/-Slack%20Bot-blueviolet?style=flat&logo=slack&logoWidth=40) ![Data Visualization](https://img.shields.io/badge/-Data%20Visualization-blueviolet?style=flat&logo=google&logoWidth=40) ![Web Scraping](https://img.shields.io/badge/-Web%20Scraping-blueviolet?style=flat&logo=python&logoWidth=40)
