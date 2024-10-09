@@ -2,7 +2,7 @@
 
 I'm a **Data Scientist** with over **5 years of experience** specialising in **Python, MLSecOps, and Artificial Intelligence**. My expertise in leveraging **machine learning** and **generative AI** to solve real-world problems and drive impactful change across industries.
 
-Currently, as a **Senior Data Scientist**, I'm leading the development and maintenance of **high-impact ML and generative AI systems** across different sectors. My work focuses on adopting AI technologies to streamline business processes and improve decision-making. Using **AWS, Azure, and Google Cloud** services, I design and optimise **batch and real-time data pipelines**, ensuring seamless integration and analysis for internal clients. I'm also a key player in design discussions and documentation, using tools like **Confluence and JIRA** to foster clear communication within and across teams.
+Currently, as a **Senior Data Scientist**, I'm leading the development and maintenance of **high-impact ML and Generative AI systems** across different sectors. My work focuses on adopting AI technologies to streamline business processes and improve decision-making. Using **AWS, Azure, and Google Cloud** services, I design and optimise **batch and real-time data pipelines**, ensuring seamless integration and analysis for internal clients. I'm also a key player in design discussions and documentation, using tools like **Confluence and JIRA** to foster clear communication within and across teams.
 
 ---
 
