@@ -37,7 +37,7 @@ Currently, as a **Senior Data Scientist**, I'm leading the development and maint
 **📚 Continuous Learning**
 
 - **Published Paper**: [Analyzing the Perception of Immigrants in South Africa: A Machine Learning Approach to Aggregate Twitter Sentiment Data](https://ieeexplore.ieee.org/document/10569247)
-- **Master's in Artificial Intelligence**: Pursuing at University of Johannesburg
+- **Master's in Artificial Intelligence** (University of Johannesburg)
 - **Certifications**:
   - Microsoft Certified: Azure Data Scientist Associate [Credentials](https://learn.microsoft.com/api/credentials/share/en-us/TendaiShoko/7A15BDEE81275AEE?sharingId=35C05CB4FE11105D)
   - Microsoft Certified: Azure AI Engineer Associate [Credentials](https://learn.microsoft.com/api/credentials/share/en-us/TendaiShoko/B5F0B5C72509F60B?sharingId=35C05CB4FE11105D)
